@@ -10,4 +10,5 @@ NLP Movie Recommendation - https://github.com/DMEstillero/NLP-Next-Movie-Recomme
 
 ## Learning
 I'm currently learning the process of QA tests and vital skills/knowledge needed to do create successful tests 
+
 My Portfolio from my Software Engineering Bootcamp - https://www.hyperiondev.com/portfolio/123717/

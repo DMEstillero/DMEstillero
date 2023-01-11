@@ -8,6 +8,9 @@ My current set of languages/frameworks include:
 * HTML
 * CSS
 * Cucumber
+* Git
+* Django
+* Bootstrap
 
 
 ## How to reach me 

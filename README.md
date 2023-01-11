@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## How to reach me 
-Send me an email to dmestillero@gmail.com or send me a message on LinkedIn
+Send me an email to dmestillero@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/dennis-estillero-5bbbb61b6/)
 
 ## Projects
 Inventory Program - https://github.com/DMEstillero/finalCapstone

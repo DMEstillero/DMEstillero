@@ -19,6 +19,8 @@ Send me an email to dmestillero@gmail.com or send me a message on [LinkedIn](htt
 ## Projects
 [Inventory Program](https://github.com/DMEstillero/finalCapstone)
 
+[Website Automated Test](https://github.com/DMEstillero/Website-Automated-Test)
+
 [NLP Movie Recommendation](https://github.com/DMEstillero/NLP-Next-Movie-Recommendation)
 
 [Bookstore Program](https://github.com/DMEstillero/Bookstore-Clerk)

@@ -25,7 +25,9 @@ Send me an email to dmestillero@gmail.com or send me a message on [LinkedIn](htt
 
 [Bookstore Program](https://github.com/DMEstillero/Bookstore-Clerk)
 
-## Learning
-I'm currently learning the process of QA tests and vital skills/knowledge needed to do create successful tests 
+## Currently Learning / Doing
+I'm currently learning the process of QA tests and vital skills/knowledge needed to do create successful tests.
+
+Current Project:  [Japanese Verb Conjugator](https://github.com/DMEstillero/Japanese-Verb-Conjugator)
 
 My Portfolio from my Software Engineering Bootcamp - https://www.hyperiondev.com/portfolio/123717/

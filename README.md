@@ -28,9 +28,12 @@ Send me an email to dmestillero@gmail.com or send me a message on [LinkedIn](htt
 [Bookstore Program](https://github.com/DMEstillero/Bookstore-Clerk)
 
 ## Current Project
+
+[Japanese Verb Conjugator](https://github.com/DMEstillero/Japanese-Verb-Conjugator)
+
 A Japanese verb conjugator app to help with my current Japanese language studies, combining both my personal hobbies.
 Currently in early stages but have plans to create a front-end GUI for users to enter the verb they would like conjugated. 
 Presenting all possible verbs onto the page.
 
-[Japanese Verb Conjugator](https://github.com/DMEstillero/Japanese-Verb-Conjugator)
+
 
